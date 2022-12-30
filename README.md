@@ -14,6 +14,16 @@ I will start releasing Alpha Versions of Trinary University, currently, I am in 
 
 You will see a Releases link to the right, the latest will be on top, click on Assets to open the folder, then download the Windows.exe, it is around 500 MB, Unreal Engine Games are very large, this one is small, and will get bigger in time.
 
+## Mac-iOS
+
+I do not have a Mac or iOS, so I cannot make Mac or iOS applications.
+
+## Linux
+
+## Android
+
+## Windows
+
 This is the Alpha version, it is a Windows installer, this only works on Windows 10 or greater.
 
 https://github.com/Light-Wizzard/Trinary-University/releases/download/Publish/Trinary_University.exe
