@@ -21,3 +21,6 @@ https://github.com/Light-Wizzard/Trinary-University/releases/download/Publish_Zi
 I am not a game player, so writing a game is not easy since I do not know how to play them, but what I found works well for me, is using the W key to move forward, and use the Mouse to navigate, and using the Left Shift to run, but first learn to Walk.
 
 The Playground is where you can learn to Walk and Run.
+
+You need to touch the Listening Posts.
+
