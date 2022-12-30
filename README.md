@@ -20,6 +20,8 @@ I do not have a Mac or iOS, so I cannot make Mac or iOS applications.
 
 ### Linux
 
+https://github.com/Light-Wizzard/Trinary-University/releases/download/Linux64/LinuxArm64.zip
+
 ### Android
 
 ### Windows
