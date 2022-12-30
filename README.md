@@ -15,3 +15,9 @@ I will start releasing Alpha Versions of Trinary University, currently, I am in 
 You will see a Releases link to the right, the latest will be on top, click on Assets to open the folder, then download the Windows.zip, it is around 500 MB, Unreal Engine Games are very large, this one is small, and will get bigger in time.
 
 https://github.com/Light-Wizzard/Trinary-University/releases/download/Publish_Zipper_Alpha/Windows.zip
+
+# Playing 
+
+I am not a game player, so writing a game is not easy since I do not know how to play them, but what I found works well for me, is using the W key to move forward, and use the Mouse to navigate, and using the Left Shift to run, but first learn to Walk.
+
+The Playground is where you can learn to Walk and Run.
