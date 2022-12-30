@@ -12,7 +12,7 @@ This Simulator is about understanding the End of Time that will happen once our 
 
 I will start releasing Alpha Versions of Trinary University, currently, I am in the middle of Level 1, which starts with level 0, and I am releasing the Windows version, if you want another OS; let me know under Issues, and I can make Linux, Mac, Windows, iOS, Android, and consoles.
 
-You will see a Releases link to the right, the latest will be on top, click on Assets to open the folder, then download the Windows.zip, it is around 500 MB, Unreal Engine Games are very large, this one is small, and will get bigger in time.
+You will see a Releases link to the right, the latest will be on top, click on Assets to open the folder, then download the Windows.exe, it is around 500 MB, Unreal Engine Games are very large, this one is small, and will get bigger in time.
 
 https://github.com/Light-Wizzard/Trinary-University/releases/download/Publish_Zipper_Alpha/Windows.zip
 
