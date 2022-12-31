@@ -10,7 +10,7 @@ This Simulator is about understanding the End of Time that will happen once our 
 
 # Video
 
-[YouTube Light-Wizzard](https://youtu.be/ZWqV9o6mqhg)
+[YouTube Light-Wizzard](https://youtu.be/JM29o6iICEw)
 
 ## Downloading
 
