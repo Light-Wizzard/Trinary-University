@@ -28,6 +28,8 @@ https://github.com/Light-Wizzard/Trinary-University/releases/download/Linux64/Li
 
 ### Android
 
+Having issues setting up Android for Unreal Engine 5.1, it takes older versions of the software available. 
+
 ### Windows
 
 This is the Alpha version, it is a Windows installer, this only works on Windows 10 or greater.
