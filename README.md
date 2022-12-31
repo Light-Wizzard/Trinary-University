@@ -20,6 +20,8 @@ I do not have a Mac or iOS, so I cannot make Mac or iOS applications.
 
 ### Linux
 
+Ths sound is not working in Linux.
+
 Linux
 https://github.com/Light-Wizzard/Trinary-University/releases/download/Linux/Linux.zip
 
