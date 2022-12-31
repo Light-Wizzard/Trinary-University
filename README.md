@@ -17,8 +17,8 @@ This Simulator is about understanding the End of Time that will happen once our 
 * [Windows](#Windows)
 * [Playing](#Playing)
 * [Characters](#Characters)
-* [](#)
-* [](#)
+* [Wiki](https://github.com/Light-Wizzard/Trinary-University/wiki)
+* [YouTube](https://youtu.be/JM29o6iICEw)
 
 # Video
 
