@@ -50,3 +50,7 @@ The Playground is where you can learn to Walk and Run.
 
 You need to touch the Listening Posts.
 
+# Characters
+
+Flesh ![](https://github.com/Light-Wizzard/Trinary-University/blob/main/images/Flesh.png)
+
