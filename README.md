@@ -34,6 +34,8 @@ You will see a Releases link to the right, the latest will be on top, click on A
 
 Ths sound is not working in Linux.
 
+I will need to set up an Ubuntu box, I normally run Arch Linux Manjaro KDE, but it does not have an installer, but I could figure out how to compile it for Manjaor, one day maybe someone will add it AUR.
+
 Linux
 https://github.com/Light-Wizzard/Trinary-University/releases/download/Linux/Linux.zip
 
