@@ -52,5 +52,8 @@ You need to touch the Listening Posts.
 
 # Characters
 
-Flesh ![](https://github.com/Light-Wizzard/Trinary-University/blob/main/images/Flesh.png)
+The Male is Flesh, the Female is Fleshia
 
+![](https://github.com/Light-Wizzard/Trinary-University/blob/main/images/Flesh.png)
+
+### End-of-Document
