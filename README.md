@@ -33,9 +33,9 @@ You will see a Releases link to the right, the latest will be on top, click on A
 
 ### Linux
 
-Ths sound is not working in Linux.
+The sound is not working in Linux.
 
-I will need to set up an Ubuntu box, I normally run Arch Linux Manjaro KDE, but it does not have an installer, but I could figure out how to compile it for Manjaor, one day maybe someone will add it AUR.
+I will need to set up an Ubuntu box, I normally run Arch Linux Manjaro KDE, but it does not have an installer, but I could figure out how to compile it for Manjaro, one day maybe someone will add it AUR.
 
 Linux
 https://github.com/Light-Wizzard/Trinary-University/releases/download/Linux/Linux.zip
@@ -73,9 +73,9 @@ The Male is Flesh, the Female is Fleshia
 
 ## Status
 
-I started from scratch, the new Game Simulation will only have 4 rooms that form a circle, the only way out is the Playground, currently I am working on the C# MAUI applicaton that goes with this Game Simulation, the concept is that anyone can use this Applicatoin to teach a course using a Game Engine.
+I started from scratch, the new Game Simulation will only have 4 rooms that form a circle, and the only way out is the Playground, currently, I am working on the C# MAUI application that goes with this Game Simulation, the concept is that anyone can use this Application to teach a course using a Game Engine.
 
-Each room has 2 Blackboards, and one Question wall, and pads you stand on to activate the recordings, I will ask 66 questions, so if you do the math, I have 2 Blackboards and 1 question times 66, is 792 files, and I have over a thousand text files to read in, so I need a solutoin that is dynamic, so I can alter the text files externally.
+Each room has 2 Blackboards, one Question wall, and pads you stand on to activate the recordings, I will ask 66 questions, so if you do the math, I have 2 Blackboards and 1 question times 66, which is 792 files, and I have over a thousand text files to read in, so I need a solution that is dynamic, so I can alter the text files externally.
 
 
 ### End-of-Document
