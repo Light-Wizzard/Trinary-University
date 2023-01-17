@@ -19,6 +19,7 @@ This Simulator is about understanding the End of Time that will happen once our 
 * [Characters](#Characters)
 * [Wiki](https://github.com/Light-Wizzard/Trinary-University/wiki)
 * [YouTube](https://youtu.be/JM29o6iICEw)
+* [Status](#Status)
 
 # Video
 
@@ -64,10 +65,17 @@ The Playground is where you can learn to Walk and Run.
 
 You need to touch the Listening Posts.
 
-# Characters
+## Characters
 
 The Male is Flesh, the Female is Fleshia
 
 ![Flesh](https://github.com/Light-Wizzard/Trinary-University/blob/main/images/Flesh.png)
+
+## Status
+
+I started from scratch, the new Game Simulation will only have 4 rooms that form a circle, the only way out is the Playground, currently I am working on the C# MAUI applicaton that goes with this Game Simulation, the concept is that anyone can use this Applicatoin to teach a course using a Game Engine.
+
+Each room has 2 Blackboards, and one Question wall, and pads you stand on to activate the recordings, I will ask 66 questions, so if you do the math, I have 2 Blackboards and 1 question times 66, is 792 files, and I have over a thousand text files to read in, so I need a solutoin that is dynamic, so I can alter the text files externally.
+
 
 ### End-of-Document
